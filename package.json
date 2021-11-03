@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "appium-ios-driver": "^4.8.3",
+    "wd": "^1.14.0",
+    "webdriverio": "^7.16.3"
+  }
+}
